@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://michaelnetter.github.io/michaelnetter/sitemap.xml
+Sitemap: https://michaelnetter.github.io/sitemap.xml
